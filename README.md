@@ -1,1 +1,1 @@
-# pai_trainig
+# pai_training
